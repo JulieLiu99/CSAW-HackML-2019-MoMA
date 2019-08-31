@@ -5,7 +5,7 @@
 ├── data
 │   ├── bd_data
 │   │   └── bd_test.h5 // this is the test data with backdoor trigger inserted
-│   | ── clean_data
+│   │ ── clean_data
 │       ├── test.h5 // this is clean data used for testing (validation)
 │       └── train.h5 // this is clean data used for training the network
 ├── eval.py // this is the evaluation script
